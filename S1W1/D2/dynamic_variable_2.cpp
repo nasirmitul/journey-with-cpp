@@ -10,6 +10,6 @@ int *fun() {
 
 int main(){
     int *p = fun();
-    cout << "main: " << *p << endl;
+    cout << "main : " << *p << endl;
     return 0;
 }

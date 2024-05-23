@@ -11,4 +11,4 @@ int main()
     cout << f << " " << *f << endl; 
 
     return 0;
-}
+}  
